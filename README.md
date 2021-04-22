@@ -1,4 +1,6 @@
 # Email service
+## This is just a thing I did in spare time and is not meant to be a finished project..... 'yet'
+___
 ## Requirements
 - Install the following libraries :<br>
     - speech_recognition
