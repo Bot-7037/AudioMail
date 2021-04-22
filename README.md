@@ -4,7 +4,7 @@
 You can send mail using your voice by running **`SendMail.py`** and listen to the email you recieved using **`RecieveMail.py`**
 ___
 ## Requirements
-- Install the following libraries :<br>
+- Install the following libraries manually or run the [libraries.bat](./Files/libraries.bat) file:<br>
     - speech_recognition
     - sounddevice
     - scipy
