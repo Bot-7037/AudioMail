@@ -1,5 +1,7 @@
 # Email service
 ## This is just a thing I did in spare time and is not meant to be a finished project..... 'yet'
+
+[You can send mail using your voice by running 'SendMail.py' and listen to the email you recieved using 'RecieveMail.py']
 ___
 ## Requirements
 - Install the following libraries :<br>
